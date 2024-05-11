@@ -14,7 +14,7 @@ Figma [UI design](https://www.figma.com/file/GBjEUJ94SCwAIuSpIa5ELG/file?type=de
 
   Doctor Home                 |    Patient Home        | Search Doctor
 :-------------------------:|:-------------------------:|:-------------------------:
-<img src=""C:\Users\GAURAV MISHRA\OneDrive\Pictures\Screenshots\Screenshot 2024-05-11 091107.png"" height="500em" />|<img src="Screenshots/Patient_home.jpg" height="500em" />|<img src="Screenshots/Search_doctor.jpg" height="500em" />
+<img src=""file:///C:/Users/dbhat/Pictures/Screenshots/Screenshot%202024-05-11%20090640.png"" height="500em" />|<img src="Screenshots/Patient_home.jpg" height="500em" />|<img src="Screenshots/Search_doctor.jpg" height="500em" />
 
   Find Appointement                 |    Select Appointement        | Accept Appointement
 :-------------------------:|:-------------------------:|:----------------------
